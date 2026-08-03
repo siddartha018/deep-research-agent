@@ -1,0 +1,2 @@
+{"query": "What is retrieval-augmented generation?", "ground_truth": "RAG combines retrieval from an external corpus with generation from an LLM."}
+{"query": "What are common causes of hallucinations in LLMs?", "ground_truth": "Distribution shift, missing knowledge, decoding artifacts, and overconfident sampling."}

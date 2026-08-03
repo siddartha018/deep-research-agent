@@ -1,0 +1,58 @@
+{
+  "generated_at": 1785484523.5734138,
+  "n_total": 10,
+  "n_scored": 1,
+  "pass_rate": 1.0,
+  "per_row": [
+    {
+      "id": "p1",
+      "passed": true,
+      "error": null
+    },
+    {
+      "id": "p2",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p3",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p4",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p5",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p6",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p7",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p8",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p9",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    },
+    {
+      "id": "p10",
+      "passed": null,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kyvchwqdfqys6vbjq4z3p8j4` service tier `on_demand` on tokens per day (TPD): Limit"
+    }
+  ]
+}

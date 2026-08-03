@@ -1,0 +1,17 @@
+{
+  "generated_at": 1785483720.2526324,
+  "p50_sec": 145.23579618700023,
+  "p95_sec": 147.56910492600036,
+  "per_row": [
+    {
+      "query": "What is retrieval-augmented generation?",
+      "latency_sec": 142.9024874480001,
+      "report_len": 1814
+    },
+    {
+      "query": "What are common causes of hallucinations in LLMs?",
+      "latency_sec": 147.56910492600036,
+      "report_len": 2395
+    }
+  ]
+}
